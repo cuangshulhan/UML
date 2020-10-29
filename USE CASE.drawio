@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T13:36:02.448Z" agent="5.0 (Windows)" etag="WRol1zPlhnop9Ro1DLTR" version="13.8.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-29T13:38:22.145Z" agent="5.0 (Windows)" etag="3KBZPg6xkKHrxtzF4N0A" version="13.8.6" type="github" pages="4">
   <diagram id="iBCdUziiuXJ5Pv-wzdKt" name="USE CASE Admin TPP Master">
-    <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MDAXRPNatICAFPBx46t_" name="USE CASE Admin TPP Transaksi">
-    <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="owQOWlWPSc7bJjTecpdj-0" />
         <mxCell id="owQOWlWPSc7bJjTecpdj-1" parent="owQOWlWPSc7bJjTecpdj-0" />
@@ -200,14 +200,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_XnOkLlr6nr_F8vUkxgD" name="USE CASE Admin TPP Laporan">
-    <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="EaaGyGfycLY8cj2NPLb1-0" />
         <mxCell id="EaaGyGfycLY8cj2NPLb1-1" parent="EaaGyGfycLY8cj2NPLb1-0" />
         <mxCell id="fo9nwXZeZRdwxFbMU6kX-0" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Admin TPP&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="EaaGyGfycLY8cj2NPLb1-1">
           <mxGeometry x="100" y="410" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fo9nwXZeZRdwxFbMU6kX-2" value="&lt;div&gt;Laporan&lt;/div&gt;&lt;div&gt;Kontainer Pemindahan&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="EaaGyGfycLY8cj2NPLb1-1">
+        <mxCell id="fo9nwXZeZRdwxFbMU6kX-2" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Laporan&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Kontainer Pemindahan&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="EaaGyGfycLY8cj2NPLb1-1">
           <mxGeometry x="290" y="405" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fo9nwXZeZRdwxFbMU6kX-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Login&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="EaaGyGfycLY8cj2NPLb1-1">
@@ -287,7 +287,7 @@
         <mxCell id="4_W1r4Tm8guJH8HQ-r1o-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Manajer&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="4_W1r4Tm8guJH8HQ-r1o-1">
           <mxGeometry x="100" y="410" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4_W1r4Tm8guJH8HQ-r1o-3" value="&lt;div&gt;Laporan&lt;/div&gt;&lt;div&gt;Kontainer Pemindahan&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="4_W1r4Tm8guJH8HQ-r1o-1">
+        <mxCell id="4_W1r4Tm8guJH8HQ-r1o-3" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Laporan&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Kontainer Pemindahan&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="4_W1r4Tm8guJH8HQ-r1o-1">
           <mxGeometry x="290" y="405" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4_W1r4Tm8guJH8HQ-r1o-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Login&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="4_W1r4Tm8guJH8HQ-r1o-1">
